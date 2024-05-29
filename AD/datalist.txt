@@ -1,0 +1,25 @@
+ID	Name	Age	braak_tangle_stage	disease_state	sex	project	Folder
+SRR12994771	SRX9446233	73	0	Non-disease control	male	SRP291332	rds/general/user/ckhozoie/home/nf_geo/work/4c/9b26e7a1119bd96d9201b1396ee4f4/untardir/filtered_feature_bc_matrix/
+SRR12994772	SRX9446234	77	0	Non-disease control	male	SRP291332	rds/general/user/ckhozoie/home/nf_geo/work/c8/9fa1ec8dc703a7db12e3cfabe7ea73/untardir/filtered_feature_bc_matrix/
+SRR12994773	SRX9446235	68	3	AD	female	SRP291332	rds/general/user/ckhozoie/home/nf_geo/work/ed/f23aafaee72f1c7688bc397f3084af/untardir/filtered_feature_bc_matrix/
+SRR12994774	SRX9446236	73	0	Non-disease control	male	SRP291332	rds/general/user/ckhozoie/home/nf_geo/work/52/82d6da55395471a3b5dec7f93fd21d/untardir/filtered_feature_bc_matrix/
+SRR12994775	SRX9446237	68	3	AD	female	SRP291332	rds/general/user/ckhozoie/home/nf_geo/work/24/c0659013c8be5d1ff0457fae006ce6/untardir/filtered_feature_bc_matrix/
+SRR12994776	SRX9446238	87	4	AD	male	SRP291332	rds/general/user/ckhozoie/home/nf_geo/work/e4/7a27e9b54076b177c718e33698604c/untardir/filtered_feature_bc_matrix/
+SRR12994777	SRX9446239	83	5	AD	male	SRP291332	rds/general/user/ckhozoie/home/nf_geo/work/9d/d9f9353955ef965610a1b40a12af62/untardir/filtered_feature_bc_matrix/
+SRR12994778	SRX9446240	87	4	AD	male	SRP291332	rds/general/user/ckhozoie/home/nf_geo/work/26/de1c9806b0b0d03675e9beb35ccd96/untardir/filtered_feature_bc_matrix/
+SRR12994779	SRX9446241	83	5	AD	male	SRP291332	rds/general/user/ckhozoie/home/nf_geo/work/7f/6ec603e991f3a0aa629d26de9e9ddd/untardir/filtered_feature_bc_matrix/
+SRR12994780	SRX9446242	83	3	AD	male	SRP291332	rds/general/user/ckhozoie/home/nf_geo/work/de/3d537e786dab5531ec48eefe8ac442/untardir/filtered_feature_bc_matrix/
+SRR12994781	SRX9446243	85	5	AD	female	SRP291332	rds/general/user/ckhozoie/home/nf_geo/work/b8/997ba5a536dbc8b9612b111f3cd536/untardir/filtered_feature_bc_matrix/
+SRR12994782	SRX9446244	77	0	Non-disease control	male	SRP291332	rds/general/user/ckhozoie/home/nf_geo/work/af/1464e1310f743d2c64e592684bdad9/untardir/filtered_feature_bc_matrix/
+SRR12994783	SRX9446245	83	3	AD	male	SRP291332	rds/general/user/ckhozoie/home/nf_geo/work/b1/935a4725ce177ba99d25f7998b2bc9/untardir/filtered_feature_bc_matrix/
+SRR12994784	SRX9446246	85	5	AD	female	SRP291332	rds/general/user/ckhozoie/home/nf_geo/work/d1/63af8c1c8601cb03307d12b5acab6c/untardir/filtered_feature_bc_matrix/
+SRR12994785	SRX9446247	81	1	Non-disease control	male	SRP291332	rds/general/user/ckhozoie/home/nf_geo/work/7a/5802c8f294a880c6a7fe5d410e9484/untardir/filtered_feature_bc_matrix/
+SRR12994786	SRX9446248	81	1	Non-disease control	male	SRP291332	rds/general/user/ckhozoie/home/nf_geo/work/97/08c63eec9e536a9cc48cb3aff6cb8b/untardir/filtered_feature_bc_matrix/
+SRR12994787	SRX9446249	74	1	Non-disease control	male	SRP291332	rds/general/user/ckhozoie/home/nf_geo/work/7c/ad896e0d1948850169009ae629dcd8/untardir/filtered_feature_bc_matrix/
+SRR12994788	SRX9446250	79	6	AD	male	SRP291332	rds/general/user/ckhozoie/home/nf_geo/work/97/b1572b62295e07c21cada94b23ab1c/untardir/filtered_feature_bc_matrix/
+SRR12994789	SRX9446251	79	6	AD	male	SRP291332	rds/general/user/ckhozoie/home/nf_geo/work/91/9edbe5912c1c884cb5102014cda6ea/untardir/filtered_feature_bc_matrix/
+SRR12994790	SRX9446252	74	1	Non-disease control	male	SRP291332	rds/general/user/ckhozoie/home/nf_geo/work/93/19162aba5915c8e8b9b065cbc8a7fe/untardir/filtered_feature_bc_matrix/
+SRR12994791	SRX9446253	91	1	Non-disease control	female	SRP291332	rds/general/user/ckhozoie/home/nf_geo/work/a6/5fe40c577c3cd89393feba5aa1316d/untardir/filtered_feature_bc_matrix/
+SRR12994792	SRX9446254	91	1	Non-disease control	female	SRP291332	rds/general/user/ckhozoie/home/nf_geo/work/0c/b6216eb4774a13944110b69f48a039/untardir/filtered_feature_bc_matrix/
+SRR12994793	SRX9446255	80	1	Non-disease control	female	SRP291332	rds/general/user/ckhozoie/home/nf_geo/work/29/d16feb094c67159b6c21882eebb5e8/untardir/filtered_feature_bc_matrix/
+SRR12994794	SRX9446256	80	1	Non-disease control	female	SRP291332	rds/general/user/ckhozoie/home/nf_geo/work/d1/5e24bb75c8baf0ac4f37d8c92201f2/untardir/filtered_feature_bc_matrix/
