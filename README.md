@@ -1,1 +1,1 @@
-# Scripts for Wehbe et al., 2024
+# Scripts for analyses in Wehbe et al., 2024
